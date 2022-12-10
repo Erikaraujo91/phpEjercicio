@@ -24,5 +24,5 @@
 			
 			}
 
-    header('Location:noticias-administracion.php');    
+    header('Location:noticias-administracion.php');     
 ?>  
